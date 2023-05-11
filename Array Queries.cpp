@@ -6,7 +6,7 @@ int main()
 {
     int number;
     cin >> number;
-
+    // Number for tast cases
     while (number--)
     {
 
