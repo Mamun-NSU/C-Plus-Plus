@@ -2,10 +2,6 @@
 #include <cstdio>
 using namespace std;
 
-/*
-Add `int max_of_four(int a, int b, int c, int d)` here.
-*/
-
 int max_of_four(int a, int b, int c, int d)
 {
     if (a > b && a > c && a > d)
