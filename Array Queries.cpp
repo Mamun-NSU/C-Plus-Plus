@@ -6,7 +6,7 @@ int main()
 {
     int number;
     cin >> number;
-    // This is for testcase
+
     while (number--)
     {
 
