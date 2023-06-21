@@ -8,11 +8,6 @@ int main()
     int T;
     cin >> T;
 
-    //     int N;
-    //     int A[N];
-
-    //     int flag=1;
-
     while (T--)
     {
         int N;
