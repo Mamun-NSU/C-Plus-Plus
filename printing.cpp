@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    // This is for line number
 
     int N;
     cin >> N;
