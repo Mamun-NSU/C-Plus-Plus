@@ -5,10 +5,11 @@ using namespace std;
 
 int main()
 {
-    int X, Y;
+    long long X, Y;
     cin >> X >> Y; // Inputs from users
 
-    int summation = X + Y, multiplication = X * Y, subtraction = X - Y;
+    long long summation = X + Y, subtraction = X - Y;
+    long long multiplication = X * Y;
 
     cout << X << " + " << Y << " = " << summation << endl;
     cout << X << " * " << Y << " = " << multiplication << endl;
